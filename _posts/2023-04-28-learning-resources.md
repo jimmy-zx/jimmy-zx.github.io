@@ -5,6 +5,9 @@ date: 2023-04-28
 
 ## Courses
 
+- [Full Stack Open](https://fullstackopen.com/en/)
+[my solutions](https://github.com/jimmy-zx/fullstackopen)
+
 ### CMU
 
 - [15-213: Intro to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
@@ -23,3 +26,7 @@ date: 2023-04-28
 
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 ISBN: `9780131101630`
+
+## Lists
+
+- [csdiy.wiki](https://csdiy.wiki/en/) [repo](https://github.com/PKUFlyingPig/cs-self-learning)
