@@ -20,6 +20,10 @@ date: 2023-04-28
 
 - [6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/)
 
+### Stanford
+
+- [CS142: Web Applications](https://web.stanford.edu/class/archive/cs/cs142/cs142.1226/index.html)
+
 ## Books
 
 - [Practical Vim](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/)
