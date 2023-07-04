@@ -1,7 +1,5 @@
 theme: minima
 markdown: kramdown
 
-include: [_includes]
-
 plugins:
   - jekyll-sitemap
